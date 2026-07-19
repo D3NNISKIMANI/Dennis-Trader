@@ -2,46 +2,48 @@
 
 https://d3nniskimani.github.io/Dennis-Trader/
 
-Dennis Trader is a professional-grade, browser-based simulated trading workspace designed for learning and testing trading strategies. This project provides a realistic, low-latency environment to practice market navigation without real-world financial risk.
+Dennis Trader is a professional-grade, browser-based simulated trading environment designed for the rigorous study and analysis of financial market strategies. This platform provides a sophisticated, low-latency workspace that allows users to engage with simulated market conditions, thereby mitigating the risks associated with live financial trading.
 
-## Features
+## ⚠️ Important Usage Note
+**This simulator is optimized exclusively for desktop and laptop computers.** For the best experience and full functionality, please access this platform using a web browser on a desktop or laptop device. This application is not intended for use on mobile devices or tablets.
 
-*   **Real-Time Simulation**: Live-updating price action, L2 order books, and market feeds.
-*   **Multi-Asset Support**: Trade across Cryptocurrencies, Futures, Stocks, and Forex.
-*   **Predictive HUD**: An algorithmic overlay that calculates trends, support/resistance zones, and potential market shifts.
-*   **AI Copilot & Scanner**: An integrated AI assistant to help explain complex concepts (leverage, hedging, liquidation) and an auto-scanner to identify trading setups.
-*   **Drawing & Indicator Suite**: Includes SMA/EMA indicators and interactive drawing tools for technical analysis.
-*   **Training Academy**: An embedded educational hub with certification quizzes covering Forex, Stocks, Futures, AI strategies, and trading psychology.
-*   **Risk Management**: Built-in support for isolated/cross-margin modes and a secure "fund isolation vault."
+## Core Features
 
-## How to Access
+*   **Real-Time Simulation**: Features live-updating price action, L2 order books, and dynamic market data feeds.
+*   **Multi-Asset Capabilities**: Supports comprehensive trading across Cryptocurrencies, Futures, Equities, and Forex.
+*   **Predictive HUD**: Utilizes an advanced algorithmic overlay to project market trends, identify support and resistance zones, and highlight potential volatility shifts.
+*   **AI Copilot & Scanner**: An integrated artificial intelligence assistant that provides technical insights and automates the scanning process to identify high-probability trading setups.
+*   **Technical Analysis Suite**: Includes a robust set of drawing tools and indicator configurations, such as SMA and EMA, for precise chart analysis.
+*   **Training Academy**: An embedded educational portal offering professional-level modules on market mechanics, AI-driven strategy development, and trading psychology.
+*   **Risk Management Protocols**: Features sophisticated margin management, including support for isolated and cross-margin modes, as well as a secure fund isolation vault.
 
-You can access the live simulator directly through GitHub Pages (if deployed) or by running it locally:
+## System Access
 
-1.  Clone this repository or download the `index.html` file.
-2.  Open `index.html` in any modern web browser.
-3.  Ensure you have an active internet connection, as the application utilizes external CDNs (Tailwind CSS, FontAwesome, and Lightweight Charts) for styling and charting functionality.
+1.  Access the platform via your desktop or laptop computer.
+2.  Launch your preferred web browser.
+3.  Navigate to the provided URL or open your local `index.html` file.
+4.  Ensure a stable internet connection is maintained to support external CDN dependencies, including Tailwind CSS, FontAwesome, and the TradingView Lightweight Charts library.
 
-## Technical Stack
+## Technical Architecture
 
-*   **Frontend**: HTML5, Tailwind CSS, and JavaScript.
-*   **Charting**: TradingView Lightweight Charts Library.
-*   **Icons**: FontAwesome 6.4.0.
-*   **Design**: Modern, dark-themed professional interface optimized for desktop viewports.
+*   **Frontend Framework**: HTML5, Tailwind CSS, and JavaScript.
+*   **Charting Engine**: TradingView Lightweight Charts Library.
+*   **UI Components**: FontAwesome 6.4.0.
+*   **Design Philosophy**: A professional, dark-themed interface engineered for high-intensity analytical work.
 
-## Training Modules
+## Educational Modules
 
-The built-in **Training Academy**[cite: 1] provides comprehensive modules on:
-*   **Forex Essentials**: London-New York overlap strategies[cite: 1].
-*   **Stock Market Microstructure**: Understanding VWAP and institutional dark pools[cite: 1].
-*   **Futures Leverage**: Basis trades and contract rollover dynamics[cite: 1].
-*   **AI System Development**: Constructing effective trading prompt structures[cite: 1].
-*   **Zen Trading**: Anti-gambling protocols and emotional regulation[cite: 1].
+The **Training Academy** delivers deep-dive content focused on:
+*   **Forex Essentials**: Analysis of liquidity windows and overlap strategies.
+*   **Stock Market Microstructure**: An examination of VWAP and institutional dark pool operations.
+*   **Futures Leverage**: Comprehensive study of basis trades and contract rollovers.
+*   **AI Strategy Development**: Methodologies for constructing robust trading algorithms.
+*   **Zen Trading**: Implementation of anti-gambling protocols and emotional regulation.
 
 ## Disclaimer
 
-This workspace is for **educational and training purposes only**. All market data, P&L, and balance movements are simulated and hold no real-world financial value. Users should exercise extreme caution when applying simulated strategies to live trading environments.
+This workspace is intended strictly for **educational and training purposes**. All market data, profit/loss metrics, and balance changes are simulated and possess no real-world financial value. Users are encouraged to exercise professional judgment and caution when applying theoretical strategies to live market environments.
 
 ---
 
-*Built by a technology professional with experience in Quality Control, Logistics, Machinery Operations, and IT Fundamentals & Cybersecurity.
+*Developed by a technology professional specializing in Quality Control, Logistics, Machinery Operations, and IT Fundamentals.*
